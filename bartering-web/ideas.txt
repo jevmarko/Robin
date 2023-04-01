@@ -1,0 +1,32 @@
+1. Define Your User Flow
+Before starting to code, it's important to define what your users will see and how they will interact with your site. 
+You might want to create wireframes or a simple prototype to help you map out the flow. Consider:
+
+How will users search for items/services to barter?
+How will they communicate with each other?
+How will they make offers and counteroffers?
+How will transactions be finalized?
+Defining these flows will also help you identify what features you'll need to build.
+
+2. Choose Your Tech Stack
+You'll need to decide what programming languages and frameworks to use for your site. Some options include:
+
+Ruby on Rails
+Node.js with Express.js or Hapi.js
+Django with Python
+Keep in mind that different technologies have different learning curves and communities.
+ If you're not sure which one to choose, do some research and consider reaching out to people in the tech community for advice.
+
+3. Build Your MVP
+Once you have your user flow and tech stack defined, start building your MVP (minimum viable product).
+ This should be a stripped-down version of your site that has just the features necessary to get started.
+
+Some key things to keep in mind while coding:
+
+Keep it simple: Don't go overboard with fancy features until you've tested the basic functionality with real users.
+Make it responsive: Given that your target audience is millennials and gen z, it's important to ensure 
+that your site works well across different devices such as laptops, tablets, and smartphones.
+Use clear labels/buttons: Make it easy for users to understand what they need to do next, and ensure that your forms and buttons are self-explanatory.
+4. Test and Iterate
+Once you have an MVP, test it out with real users. Set up feedback mechanisms to hear what they think about the site and whether they encounter any issues.
+ Based on that feedback, iterate on the site to improve its functionality, usability, and design.

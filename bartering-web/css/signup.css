@@ -1,0 +1,78 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F0F0F0 ; /* White Background color */
+    color: #333; /* Dark font color */
+}
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  max-width: 380px; /* Reduce the width of the form to make sure it fits inside the main container */
+  background-color: #fff; /* White background */
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0.5rem 1.5rem #726d56;
+}
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333; /* Dark font color */
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333; /* Dark font color */
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+    font-size: 16px;
+    background-color: #f4f4f4; /* Light grey background */
+    color: #333; /* Dark font color */
+    border: 1px solid #ddd; /* Lighter border color */
+}
+
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button[type="submit"]:hover {
+    background-color: #3CBC3C;
+}
+
+/* Sustainability message */
+.sustainability-message {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.sustainability-message span {
+    color: #4CAF50;
+}
